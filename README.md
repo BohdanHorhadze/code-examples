@@ -1,1 +1,3 @@
-# code-examples-component-
+# code-examples-component
+
+component for generetion dynamic fields
